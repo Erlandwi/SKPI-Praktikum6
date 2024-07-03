@@ -1,0 +1,16 @@
+E:\VB.NET2022\Praktikum 6\praktikum6\praktikum6\bin\Debug\net8.0-windows\praktikum6.exe
+E:\VB.NET2022\Praktikum 6\praktikum6\praktikum6\bin\Debug\net8.0-windows\praktikum6.deps.json
+E:\VB.NET2022\Praktikum 6\praktikum6\praktikum6\bin\Debug\net8.0-windows\praktikum6.runtimeconfig.json
+E:\VB.NET2022\Praktikum 6\praktikum6\praktikum6\bin\Debug\net8.0-windows\praktikum6.dll
+E:\VB.NET2022\Praktikum 6\praktikum6\praktikum6\bin\Debug\net8.0-windows\praktikum6.pdb
+E:\VB.NET2022\Praktikum 6\praktikum6\praktikum6\obj\Debug\net8.0-windows\praktikum6.Form1.resources
+E:\VB.NET2022\Praktikum 6\praktikum6\praktikum6\obj\Debug\net8.0-windows\praktikum6.vbproj.GenerateResource.cache
+E:\VB.NET2022\Praktikum 6\praktikum6\praktikum6\obj\Debug\net8.0-windows\praktikum6.GeneratedMSBuildEditorConfig.editorconfig
+E:\VB.NET2022\Praktikum 6\praktikum6\praktikum6\obj\Debug\net8.0-windows\praktikum6.AssemblyInfoInputs.cache
+E:\VB.NET2022\Praktikum 6\praktikum6\praktikum6\obj\Debug\net8.0-windows\praktikum6.AssemblyInfo.vb
+E:\VB.NET2022\Praktikum 6\praktikum6\praktikum6\obj\Debug\net8.0-windows\praktikum6.vbproj.CoreCompileInputs.cache
+E:\VB.NET2022\Praktikum 6\praktikum6\praktikum6\obj\Debug\net8.0-windows\praktikum6.dll
+E:\VB.NET2022\Praktikum 6\praktikum6\praktikum6\obj\Debug\net8.0-windows\refint\praktikum6.dll
+E:\VB.NET2022\Praktikum 6\praktikum6\praktikum6\obj\Debug\net8.0-windows\praktikum6.pdb
+E:\VB.NET2022\Praktikum 6\praktikum6\praktikum6\obj\Debug\net8.0-windows\praktikum6.genruntimeconfig.cache
+E:\VB.NET2022\Praktikum 6\praktikum6\praktikum6\obj\Debug\net8.0-windows\ref\praktikum6.dll
